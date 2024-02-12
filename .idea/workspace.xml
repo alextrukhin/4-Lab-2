@@ -5,13 +5,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32a1372c-c3c7-4736-94e1-44f08c8d2892" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FilePreview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FilePreviewFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Folder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StorageEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/File.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FilePreview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/FilePreviewFactory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Folder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/StorageEntity.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/legal/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/legal/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/legal/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/legal/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/legal/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/module-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-dir/jquery-3.6.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/search-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tag-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FilePreview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FilePreview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FilePreviewFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FilePreviewFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Folder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Folder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StorageEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StorageEntity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,22 +90,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Main.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -88,7 +136,8 @@
       <option name="presentableId" value="Default" />
       <updated>1707655366283</updated>
       <workItem from="1707655367393" duration="265000" />
-      <workItem from="1707655644833" duration="20113000" />
+      <workItem from="1707655644833" duration="20258000" />
+      <workItem from="1707726770951" duration="627000" />
     </task>
     <servers />
   </component>

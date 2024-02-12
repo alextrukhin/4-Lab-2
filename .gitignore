@@ -1,3 +1,5 @@
+docs/
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/

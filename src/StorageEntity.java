@@ -1,3 +1,6 @@
+/**
+ * Storage entity for folder and file
+ */
 public abstract class StorageEntity implements Cloneable {
     /**
      * Name
@@ -6,11 +9,15 @@ public abstract class StorageEntity implements Cloneable {
 
     /**
      * Constructor with name
+     * @param name Name of the entity
      */
     public StorageEntity(String name) {
         this.name = name;
     }
 
+    /**
+     * Clone
+     */
     @Override
     public abstract StorageEntity clone();
 
@@ -21,6 +28,7 @@ public abstract class StorageEntity implements Cloneable {
 
     /**
      * Display
+     * @param prefix Prefix for display; default is ""
      */
     public abstract void display(String prefix);
 }

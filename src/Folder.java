@@ -16,6 +16,7 @@ public class Folder extends StorageEntity {
 
     /**
      * Constructor
+     * @param name Name of the folder
      */
     public Folder(String name) {
         super(name);
@@ -39,6 +40,9 @@ public class Folder extends StorageEntity {
         nodes.remove(node);
     }
 
+    /**
+     * Clone
+     */
     @Override
     public StorageEntity clone() {
         Folder folder = new Folder(this.name);
@@ -48,6 +52,9 @@ public class Folder extends StorageEntity {
         return folder;
     }
 
+    /**
+     * Display Composition
+     */
     @Override
     public void display() {
         this.display("");

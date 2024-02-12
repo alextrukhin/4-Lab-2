@@ -6,10 +6,18 @@ import java.util.Map;
  */
 public class FilePreviewFactory {
     /**
+     * Constructor
+     */
+    public FilePreviewFactory() {
+
+    }
+    /**
      * File preview map
      */
     private final Map<String, FilePreview> filePreviewMap = new HashMap<>();
-
+    /**
+     * Default file preview
+     */
     private final FilePreview defaultFilePreview = new FilePreview("");
 
     /**

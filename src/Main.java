@@ -1,4 +1,14 @@
+/**
+ * Entry point of the program
+ */
 public class Main {
+    /**
+     * Display
+     *
+     * @param entity   Entity (folder or file)
+     * @param previews File preview factory
+     * @param args     Depth
+     */
     public static void display(StorageEntity entity, FilePreviewFactory previews, int... args) {
         int i = args.length > 0 ? args[0] : 0;
         System.out.println(new String(new char[i]).replace("\0", "  ") + "Folder: " + entity.name);
@@ -16,6 +26,11 @@ public class Main {
         }
     }
 
+    /**
+     * Main
+     *
+     * @param args Arguments
+     */
     public static void main(String[] args) {
         Folder root = new Folder("Root");
         FilePreviewFactory previews = new FilePreviewFactory();
